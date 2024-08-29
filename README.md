@@ -13,5 +13,6 @@ Welcome to the **Netflix Clone** project – a front-end replica of the popular 
 **Navigation Bar:** A sticky navbar with a search feature, profile icon, and navigation links.
 
 ## Technologies Used
+**HTML/CSS:** For structuring and styling the website.
 
 
