@@ -6,5 +6,6 @@ Welcome to the **Netflix Clone** project – a front-end replica of the popular 
 
 **Responsive UI:** A fully responsive design that adapts to different screen sizes, from desktops to mobile devices.
 
+**Carousel Slider:** Smooth, interactive carousel sliders for movie categories.
 
 
