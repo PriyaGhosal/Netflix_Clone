@@ -15,4 +15,7 @@ Welcome to the **Netflix Clone** project – a front-end replica of the popular 
 ## Technologies Used
 **HTML/CSS:** For structuring and styling the website.
 
+**JavaScript:** For interactive features like carousel sliders, hover effects, and dynamic content loading.
+
+
 
