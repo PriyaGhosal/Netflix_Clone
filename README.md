@@ -8,4 +8,6 @@ Welcome to the **Netflix Clone** project – a front-end replica of the popular 
 
 **Carousel Slider:** Smooth, interactive carousel sliders for movie categories.
 
+**Hover Effects:** Interactive hover effects on movie cards to display additional details.
+
 
