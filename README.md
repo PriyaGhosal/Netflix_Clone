@@ -17,5 +17,13 @@ Welcome to the **Netflix Clone** project – a front-end replica of the popular 
 
 **JavaScript:** For interactive features like carousel sliders, hover effects, and dynamic content loading.
 
+**Responsive Design:** Ensures the website looks great on all devices, from desktops to mobile phones.
+
+
+
+
+
+
+
 
 
